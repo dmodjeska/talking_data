@@ -1,6 +1,6 @@
 ## Introduction
 
-During the period March-May 2018, Kaggle held a competition called TalkingData AdTracking Fraud Detection Challenge. The goal was to detect fraud in clicks on mobile app ads with a large Chinese big-data services company. A full description of this competition is below.
+During the period March-May 2018, Kaggle held a competition called [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection). The goal was to detect fraud in clicks on mobile app ads with a large Chinese big-data services company. A full description of this competition is below.
 
 Because the training data contains almost 200 million records, this solution uses Spark for scale. The solution was run on a 5-computer cluster using Amazon's Elastic Map Reduce (EMR) service.
 
